@@ -21,6 +21,7 @@ Resources can be used to train units, construct buildings, and research technolo
 
 Our dataset, having 1.808.535 rows and 67 columns, is a time series collection of more than 2,200 'one-versus-one' games whose instances collect atribute values for each timestamp in the game. Each row represents a time point for a concret game, these timestamps were recorded at 3 second intervals, which means that if we have 3 rows we have data for a 9 second time interval.
 
+*Data Source:* https://github.com/Macuyiko/aoe2predict
 
 **Features Description:**
 
